@@ -7,7 +7,7 @@
     tools:context=".SpecifyAmountFragment">
 
     <TextView
-        android:id="@+id/recipient"
+        android:id="@+id/to_recipient"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
